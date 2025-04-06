@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="darker_blue">#1976D2</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="option_button_bg">#FFFFFF</color>
+    <color name="option_text_color">#333333</color>
+    <color name="correct_answer">#4CAF50</color>
+    <color name="wrong_answer">#F44336</color>
+    <color name="title_color">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_alt">#F0F0F0</color>
+    <color name="input_background">#F5F5F5</color>
+    <color name="input_stroke">#CCCCCC</color>
+    <color name="icon_tint">#6200EE</color>
+    <color name="button_background">#6200EE</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_ripple">#9C27B0</color>
+    <color name="button_stroke">#6200EE</color>
+    <color name="link_color">#6200EE</color>
+    <color name="secondary_button_background">#FFFFFF</color>
+    <color name="secondary_button_text">#6200EE</color>
+    <color name="selected_range">#6200EE</color>
+    <color name="default_range">#FFFFFF</color>
+    <color name="green_up">#4CAF50</color>
+    <color name="red_down">#F44336</color>
+    <!-- Primary brand colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#FFA000</color>
+
+    <!-- App background and surface colors -->
+    <color name="background">#F5F8FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_disabled">#BDBDBD</color>
+
+    <!-- Status colors -->
+    <color name="profit_green">#00C853</color>
+    <color name="loss_red">#D50000</color>
+    <color name="dividend_blue">#2196F3</color>
+
+    <!-- Background for transaction icons -->
+    <color name="buy_light_green">#E8F5E9</color>
+    <color name="sell_light_red">#FFEBEE</color>
+    <color name="dividend_light_blue">#E3F2FD</color>
+
+    <!-- Portfolio allocation colors -->
+    <color name="stock_blue">#2196F3</color>
+    <color name="bond_yellow">#FFC107</color>
+    <color name="crypto_purple">#9C27B0</color>
+    <color name="cash_green">#4CAF50</color>
+    <color name="reit_orange">#FF5722</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#808080</color>
+</resources>
